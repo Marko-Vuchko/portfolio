@@ -1,0 +1,23 @@
+# robots.txt for Marko Vučković Portfolio
+# Data Analyst & Data Engineer
+
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://yourwebsite.com/sitemap.xml
+
+# Allow search engines to crawl main sections
+Allow: /index.html
+Allow: /css/
+Allow: /js/
+Allow: /images/
+Allow: /cv/
+
+# Disallow private/temporary directories
+Disallow: /venv/
+Disallow: /.cursor/
+Disallow: /.git/
+
+# Crawl delay (optional, in seconds)
+Crawl-delay: 1
