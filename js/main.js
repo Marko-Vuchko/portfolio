@@ -263,7 +263,7 @@ function initTypedText() {
         return;
     }
 
-    const texts = ['Data Analyst', 'Data Engineer', 'Data Scientist'];
+    const texts = ['Data Analyst'];
     let textIndex = 0;
     let charIndex = 0;
     let isDeleting = false;
@@ -676,7 +676,7 @@ document.addEventListener('mousedown', () => {
 // CONSOLE MESSAGE
 // ==========================================
 
-console.log('%c👨‍💻 Data Analyst & Engineer Portfolio', 'font-size: 20px; font-weight: bold; color: #00d4ff;');
+console.log('%c👨‍💻 Data Analyst Portfolio', 'font-size: 20px; font-weight: bold; color: #00d4ff;');
 console.log('%cBuilt with passion and modern web technologies', 'font-size: 12px; color: #a1a1aa;');
 console.log('%c🚀 GSAP | Particles.js | Typed.js', 'font-size: 12px; color: #6c5ce7;');
 

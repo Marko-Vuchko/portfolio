@@ -1,5 +1,5 @@
 # robots.txt for Marko Vučković Portfolio
-# Data Analyst & Data Engineer
+# Data Analyst Portfolio
 
 User-agent: *
 Allow: /
